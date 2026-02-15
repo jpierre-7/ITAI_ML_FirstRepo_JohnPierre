@@ -12,9 +12,7 @@ ITAI_ML_FirstRepo_JohnPierre/
 └── README.md                    # This file
 ```
 
-## Contents
-
-### Modules
+## Modules
 
 - **Module 3**: ML Workflows and Types of Learning
 - **Module 4**: Working with Data and EDA
